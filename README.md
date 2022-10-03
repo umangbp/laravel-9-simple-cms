@@ -148,10 +148,9 @@ Added model binding to: app/Providers/RouteServiceProvider.php
 <a name="item5"></a>
 ## Screenshots
 
-![Index](https://www.dropbox.com/s/u35s0y0gpe7k7dv/lcms1.jpg?raw=1)
-![Pagination](https://www.dropbox.com/s/bfnngeuby1cc8sn/lcms2.jpg?raw=1)
-![Post](https://www.dropbox.com/s/kunoiaqm6qwrcnr/lcms3.jpg?raw=1)
-![Drop down](https://www.dropbox.com/s/b72mgdsno7w2k66/lcms4.jpg?raw=1)
-![Admin Auth](https://www.dropbox.com/s/vutejs6b1hbcmyc/lcms5.jpg?raw=1)
-![Admin Dashboard](https://www.dropbox.com/s/tky0e11j1r4ys6t/lcms6.jpg?raw=1)
-![Admin Page Manager](https://www.dropbox.com/s/0nfl3lt021kxysj/lcms7.jpg?raw=1)
+![Index](https://imgur.com/0kUl67H)
+![Admin Auth](https://imgur.com/6DiRh3P)
+![Admin Edit Resource](https://ozdemirburak.com/i/upload/cms/editor.png)
+![Admin Datatables](https://imgur.com/0UwH3yS)
+![Admin Dashboard](https://ozdemirburak.com/i/upload/cms/editor.png)
+![Admin File Manager](https://ozdemirburak.com/i/upload/cms/file-manager.png)
